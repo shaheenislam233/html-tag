@@ -1,0 +1,59 @@
+@media only screen and (max-width: 768px) {
+    .container{
+        width: 90%;
+    }
+    .logo{
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .header-menu ul{
+        float: none;
+        text-align: center;
+    }
+    .header-menu ul li{
+        float: none;
+        display: inline;
+    }
+    .header-menu ul li a{
+        display: inline-block;
+    }
+    .col-4{
+        width: 46%;
+        margin: 1% 1%;
+    }
+    .skill-item{
+        width: 46%;
+        margin: 1% 1%;
+    }
+}
+@media only screen and (max-width: 600px){
+    .col-4{
+        width: 100%;
+        float: none;
+    }
+    .service-item img{
+        width: auto;
+        height: auto;
+        max-width: 60%;
+    }
+    .portfolio-items {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 30px;
+    }
+    .testimonial .clients {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 30px;
+    }
+}
+
+
+
+
+
+
+
+
